@@ -1,0 +1,25 @@
+@charset "utf-8";
+.container header {
+	background-color: #3cb371;
+}
+.container header nav {
+	background-color: #2e8b57;
+}
+.container #hero {
+	background-image: url(images/1.jpg);
+}
+.container #about {
+	background-image: -webkit-linear-gradient(270deg,rgba(254,235,220,1.00) 1.73%,rgba(255,255,255,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(254,235,220,1.00) 1.73%,rgba(255,255,255,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(254,235,220,1.00) 1.73%,rgba(255,255,255,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(254,235,220,1.00) 1.73%,rgba(255,255,255,1.00) 100%);
+}
+.container .banner {
+	background-image: url(images/1.jpg);
+}
+.container #contact {
+	background-image: url(images/1.jpg);
+}
+.container .copyright {
+	background-color: #3CB371;
+}
